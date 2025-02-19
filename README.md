@@ -37,4 +37,7 @@ Delete suas partições em um Windows comum como um 2000,XP,Vista ou 7 original
 Salve seus arquivos em um HD externo ou pendrive,pois o particionamento pode ser feito após a instalação
 
 Copyright 1981-2001 Microsoft Corporation,2021-2025 @ricardobernardospengler no TikTok e porções de Updates e Arquivos de terceiros
+![Windows 2000 (test install)-2025-02-18-20-07-56](https://github.com/user-attachments/assets/b06a8a01-7319-4be4-8c3b-0a21793924ca)
+
+
 
